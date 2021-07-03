@@ -1,0 +1,74 @@
+#RMG{
+    color: green;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 4em;
+}
+.Definition{
+    color: red;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.Challenge{
+    color: red;
+    font-size:2em ;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Div1{
+    color: black;
+    background-color: blue;
+    border: 20px solid yellow;
+    border-radius: 50px ;
+    margin: 50px auto;
+    padding: 20px 10px;
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    
+    }
+    .P1{
+        font-size: 100%;
+        font-weight: bold;
+        color:white ;
+    }
+    .Div2{
+        color: black;
+        background-color:blue;
+        border:20px solid yellow;
+        border-radius:50px ;
+        margin: 50px auto;
+        padding: 20px 10px;
+        width: 50%;
+        height: 200px;
+        text-align: center;
+    }
+    .P2{
+        font-size: 100%;
+        font-weight: bold;
+        color: white;
+    }
+    .P3{
+        font-size: 100%;
+        font-weight: bold;
+        color: white;
+    }
+    .div3{
+        color:white;
+        background-color: blue;
+        border: 20px solid yellow;
+        border-radius: 50px;
+        margin: 50px auto;
+        padding: 20px 10px;
+        width: 50%;
+        height: 200%;
+        text-align: center;
+        
+    }
+    .Div4{
+        color: blue;
+        text-align: center;
+    }
